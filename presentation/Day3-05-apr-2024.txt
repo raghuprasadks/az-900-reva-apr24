@@ -1,0 +1,31 @@
+Networking
+Storage Service
+Azure Active Directory
+
+https://www.reva.edu.in/
+
+DNS
+godaddy or azure,google,aws
+
+
+hands-on
+
+1. create a vm
+2. give name as vnetdemo
+3. Go through network tab and
+go through various sections of network tab
+
+az-900
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+
+static website - html,css
+test
+host on a webserver
+nginx
+apache tomcat
+jboss
+local system
+godaddy
+aws
+
+dynamic website

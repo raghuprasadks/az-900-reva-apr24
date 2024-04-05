@@ -1,0 +1,26 @@
+1. create a virtual machine - done
+2. search for install nginx on ubuntu
+https://ubuntu.com/tutorials/install-and-configure-nginx#2-installing-nginx
+
+
+connect to ssh
+
+
+sudo apt update
+sudo apt install nginx
+
+http://20.198.8.193/
+
+
+assignment
+
+create database - my sql database
+
+database
+
+Search az-900
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+
+
+

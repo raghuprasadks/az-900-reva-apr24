@@ -1,0 +1,63 @@
+Lab - Create static website
+
+Step1 - Login to azure
+Step2 - Clik Create under Web App
+Step 3 - 
+
+Hosting sample website
+1. create staticwebsite folder
+2. open in any editor
+3. create index.html
+
+Official website of AZ-900 course
+AZ-900
+https://learn.microsoft.com/en-us/training/courses/az-900t00
+
+Cloud Computing Concepts
+
+Deployment models
+Public
+Private
+Hybrid
+
+
+
+
+
+Service models
+Infrastructure AS A Service (IAAS) - Virtual Machine in Azure
+Platform AS A Service (PAAS) - App Service 
+Software As A Service (SAAS)
+
+Steps to login
+
+you have to login with college credentials
+1. free tier
+2. student
+
+
+Devops - Development and operations - integration
+
+CI CD - Continous Integration Continous Delivery/Deployment
+
+Software Models
+
+Waterfall model
+SADTMC
+
+S - System Engineering - Requirements
+A - Analysis
+D - Design
+C - Coding
+T - Testing
+M - Maintenance
+agile model
+
+Assignment
+
+1. Create a virtual machine with following os
+ubuntu and data center as central india
+connect to the virtual machine using 
+ssh
+
+https://ubuntu.com/tutorials/install-and-configure-nginx
