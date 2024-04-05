@@ -18,6 +18,13 @@ go through various sections of network tab
 az-900
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
 
+training material
+
+kaushalya.tech
+git
+
+
+
 static website - html,css
 test
 host on a webserver
