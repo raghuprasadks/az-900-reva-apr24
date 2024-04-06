@@ -36,3 +36,57 @@ godaddy
 aws
 
 dynamic website
+
+https://jsonplaceholder.typicode.com/
+
+URL - Uniform Resource Locator
+
+https://jsonplaceholder.typicode.com/users
+
+JSON - Java Script Object Notation
+
+Key : value
+
+web service
+
+
+kaushalya tech
+www.kaushalya.tech
+
+git
+repositories
+
+https://github.com/raghuprasadks/az-900-reva-apr24
+
+practice..
+1. create an account in github.com
+signup
+2. download and install git
+https://git-scm.com/downloads
+git --version
+3. create a repository demogit in github
+in command prompt
+git clone https://github.com/raghuprasadks/demogitaz.git
+cd demogitaz
+create index.html
+git add .
+git commit -m "initial commit"
+git push
+
+
+4. Basic git commands
+5. clone the git repository
+6. create index.html
+7. Create a dynamic web application in azure using
+github
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+Storage service
+az-900
+https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob
+
+https://azdemostoragenew.blob.core.windows.net/aztestcontainer/azure.jpg
+
+Azure Identity,Access and Security
+
+Banking application
+1. Identity the users
+2. Group the users
+3. Identify the tasks
+
+Active Directory (AD)
+Azure Active Directory (AAD)
+Entrant ID
+
+https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/10-knowledge-check
+Try MCQ
+4. Enroll the users (sign up)
+5. Login
+Authentication (valid login and password)
+allowed to login
+and Authorization
+
+New account holder in a bank
+
+CRUD 
+Create
+Read
+Update
+Delete
+
+
+Cost management
+Excise 4
+and
+Excise 5
+
+https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/4-exercise-estimate-workload-costs-use-pricing-calculator
+
+Hands on 
+unit 5
+describe-features-tools-azure-for-governance-compliance
+
+https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/5-exercise-configure-resource-lock
+
+Module :describe-features-tools-manage-deploy-azure-resources
+
+https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/5-knowledge-check
+
+
+Go through the cheat sheet which is in git hub
+
+take 
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam
